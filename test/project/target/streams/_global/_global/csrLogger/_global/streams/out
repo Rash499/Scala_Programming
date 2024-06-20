@@ -1,0 +1,14 @@
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sbt-debug-adapter_2.12_1.0/4.1.1/sbt-debug-adapter_2.12_1.0-4.1.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.pom
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.18/4.9.6/semanticdb-scalac_2.12.18-4.9.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.jar
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.jar
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sbt-debug-adapter_2.12_1.0/4.1.1/sbt-debug-adapter_2.12_1.0-4.1.1.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.18/4.9.6/semanticdb-scalac_2.12.18-4.9.6.jar
