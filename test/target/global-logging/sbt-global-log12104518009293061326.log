@@ -13,3 +13,4 @@
 [debug] unmatched Processing event for requestId Some(17): None
 [debug] unmatched json response for requestId Some(17): {"status":"Done","channelName":"network-1","execId":"17","commandQueue":["shell"],"exitCode":0}
 [debug] > Exec(shell, None, None)
+[debug] Forcing garbage collection...
